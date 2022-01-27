@@ -50,6 +50,9 @@ persist.sys.wfd.virtual=0
 # Fastbootd
 ro.fastbootd.available=true
 
+# fdsan
+debug.fdsan=0
+
 # Logd
 ro.logd.kernel=false
 
