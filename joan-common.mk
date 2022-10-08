@@ -367,6 +367,9 @@ PRODUCT_COPY_FILES += \
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
+# Properties
+include $(LOCAL_PATH)/vendor_logtag.mk
+
 # Recovery
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/recovery/root/init.recovery.joan.rc:root/init.recovery.joan.rc
