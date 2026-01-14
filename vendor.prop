@@ -8,6 +8,7 @@ audio.offload.video=false
 audio.sys.noisy.broadcast.delay=600
 audio.sys.offload.pstimeout.secs=3
 af.fast_track_multiplier=1
+af.resampler.quality=7
 persist.vendor.audio.fluence.speaker=true
 persist.vendor.audio.fluence.voicecall=true
 persist.vendor.audio.fluence.voicerec=false
