@@ -183,7 +183,7 @@ PRODUCT_PACKAGES += \
 
 # FM packages
 PRODUCT_PACKAGES += \
-	FM2 \
+    RevampedFMRadio \
     libqcomfm_jni \
     qcom.fmradio
 
